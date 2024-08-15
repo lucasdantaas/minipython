@@ -1,0 +1,34 @@
+Python!
+tipos de variaveis -
+Tipo Inteiro (int)
+Ponto Flutuante ou Decimal (float)
+Complexo (complex)
+String (str)
+Boolean (bool)
+Listas (list)
+Tuplas (tuple)
+Dicionários (dict)
+
+Usamos print para imprimir algo na tela.
+print()
+usamos o .format para ler a variavel a impresão.
+print({}.format(x))
+Nisso x entrada no lugar vazio.
+usamos input para digitar e guardar algo.
+input()
+
+Ordem de procedencia
+1- ()
+2- **
+3- * / // %
+4- + -
+
+Blibioteca MATH.
+Blibioteca matematica.
+
+ceil - Arredondar o valor para cima.
+floor - Arredonda o valor para baixo.
+trunc - 
+pow - Da a potencia do valor.
+sqrt - raiz quadrada 
+factorial - calcular o valor factorial.

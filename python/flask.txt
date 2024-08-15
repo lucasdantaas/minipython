@@ -1,0 +1,21 @@
+Configurações aplicação em Flask usando XAMPP!
+ 
+Para criar uma aplicação em Python usamos o :
+# Python -m venv (nome do arquivo)
+usamos também o scripts/activate para configurar.
+
+instale o flask para configurar o projeto usando:
+# pip install flask
+
+caso tenha bancos de dados. Utilizando o servidor Mysql. instale os drives usando:
+# pip install pymysql.
+
+CORPO DO PROJETO 
+PASTA - SRC
+        - CONTROLLER
+        - ROUTES
+        - STATIC
+        - DATABASE
+        - TEMPLATE
+
+     
